@@ -1,10 +1,10 @@
 {
-    "name": "web3d/DingtalkSDK",
+    "name": "wezzii/dingtalk-sdk",
     "description": "钉钉 服务器端sdk php版本",
-    "homepage": "https://github.com/web3d/DingtalkSDK",
+    "homepage": "https://github.com/wezzii/dingtalk-sdk",
     "license": "MIT",
     "keywords": ["http", "dingtalk", "api"],
-    "version": "0.1.1",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "Jimmy Jaw",
